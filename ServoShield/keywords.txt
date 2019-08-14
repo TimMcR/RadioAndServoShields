@@ -1,0 +1,9 @@
+ServoShield	KEYWORD1
+writeToServo	KEYWORD2
+writeServo1	KEYWORD2
+writeServo2	KEYWORD2
+writeServo3	KEYWORD2
+writeServo4	KEYWORD2
+writeServo5	KEYWORD2
+setLEDBrightness	KEYWORD2
+init	KEYWORD2

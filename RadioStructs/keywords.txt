@@ -1,0 +1,8 @@
+RadioStructs	KEYWORD1
+ServoShieldData	KEYWORD1
+
+servo1Pos	KEYWORD2
+servo2Pos	KEYWORD2
+servo3Pos	KEYWORD2
+servo4Pos	KEYWORD2
+servo5Pos	KEYWORD2
