@@ -6,3 +6,22 @@ servo2Pos	KEYWORD2
 servo3Pos	KEYWORD2
 servo4Pos	KEYWORD2
 servo5Pos	KEYWORD2
+
+RF24Shield	KEYWORD1
+RF24Slave	KEYWORD1
+RF24Master	KEYWORD1
+
+init		KEYWORD2
+readData	KEYWORD2
+useData		KEYWORD2
+sendData	KEYWORD2
+
+ServoShield	KEYWORD1
+writeToServo	KEYWORD2
+writeServo1	KEYWORD2
+writeServo2	KEYWORD2
+writeServo3	KEYWORD2
+writeServo4	KEYWORD2
+writeServo5	KEYWORD2
+setLEDBrightness	KEYWORD2
+init	KEYWORD2
